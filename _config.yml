@@ -78,9 +78,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "SEFA"
-  avatar           : "profile.png"
-  bio              : "Subsea Engineering and Flow Assurance Laboratory --- Dept. of Naval Architecture and Ocean Engineering, College of Engineering, Seoul National University, Korea"
+  name             : "Subsea Engineering and Flow Assurance Laboratory"
+  avatar           : 
+  bio              : "Dept. of Naval Architecture and Ocean Engineering, College of Engineering, Seoul National University, Korea"
   location         : "Room #203, Bld #36"
   employer         :
   googlescholar    : "http://yourfullgooglescholarurl.com"
