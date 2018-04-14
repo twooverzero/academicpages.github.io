@@ -9,8 +9,8 @@
 locale                   : "en-US"
 title                    : "SEFA"
 title_separator          : "|"
-name                     : &name "Subsea Engineering & Flow Assurance Lab"
-description              : &description "personal description"
+name                     : &name "SEFA"
+description              : &description "Subsea Engineering & Flow Assurance Lab"
 url                      : https://twooverzero.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "twooverzero/twooverzero.github.io"
@@ -80,8 +80,8 @@ analytics:
 author:
   name             : "SEFA"
   avatar           : "profile.png"
-  bio              : "Subsea Engineering and Flow Assurance Laboratory"
-  location         : "Room #203, Bld #36, Dept. of Naval Architecture and Ocean Engineering, Clooege of Engineering, Seoul National University, Korea"
+  bio              : "Subsea Engineering and Flow Assurance Laboratory. Dept. of Naval Architecture and Ocean Engineering, Clooege of Engineering, Seoul National University, Korea"
+  location         : "Room #203, Bld #36"
   employer         :
   googlescholar    : "http://yourfullgooglescholarurl.com"
   email            :
