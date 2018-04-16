@@ -29,7 +29,7 @@ Multiphase Flow in Subsea Flowlines Flow Assurance
 
 Hydrate Risk Management with Innovative Solutions
 ------
-![Hydrates](/images/hydrates.PNG)
+![hydrates](/images/hydrates.PNG)
 
 - Under-inhibition with MEG
 - incorproating MEG and KHI into hydrogel particles
@@ -40,8 +40,6 @@ Integration of Subsea Production System with Topside Process
 - Transient simulation of subsea flowline with dynamic simulation of separator train
 - Investigation of max surge and flare requirement with dynamic simulation
 - Multiscale approach for offshore platform design
-
-![Editing a markdown file for a talk](/images/editing-talk.png)
 
 
 Selected Publications
