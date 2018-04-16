@@ -37,6 +37,7 @@ Hydrate Risk Management with Innovative Solutions
 
 Integration of Subsea Production System with Topside Process
 ------
+![integrated](/images/integrated.PNG)
 - Transient simulation of subsea flowline with dynamic simulation of separator train
 - Investigation of max surge and flare requirement with dynamic simulation
 - Multiscale approach for offshore platform design
