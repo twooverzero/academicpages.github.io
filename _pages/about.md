@@ -29,6 +29,8 @@ Multiphase Flow in Subsea Flowlines Flow Assurance
 
 Hydrate Risk Management with Innovative Solutions
 ------
+![Hydrates](/images/hydrates.PNG)
+
 - Under-inhibition with MEG
 - incorproating MEG and KHI into hydrogel particles
 - Development microcapsule carrying hydrate inhibitors
@@ -39,7 +41,6 @@ Integration of Subsea Production System with Topside Process
 - Investigation of max surge and flare requirement with dynamic simulation
 - Multiscale approach for offshore platform design
 
-Example: editing a markdown file for a talk
 ![Editing a markdown file for a talk](/images/editing-talk.png)
 
 
