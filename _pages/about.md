@@ -53,7 +53,12 @@ Selected Publications
 
 Research Partners
 ------
-Korea Gas Corporation(KOGAS), Hyundai Heavy Industry(HHI), Samsung Heavy Industry(SHI), University of Western Austrailia(UWA), The Commonwealth Scientific and Industrial Research Organisation(CSIRO), National University of Singapore(NUS)
+- Korea Gas Corporation(KOGAS)
+- Hyundai Heavy Industry(HHI)
+- Samsung Heavy Industry(SHI)
+- University of Western Austrailia(UWA)
+- The Commonwealth Scientific and Industrial Research Organisation(CSIRO)
+- National University of Singapore(NUS)
 
 For more info
 ------
