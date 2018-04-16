@@ -1,15 +1,18 @@
 ---
-title: "Paper Title Number 1"
+title: "Performance of Polymer Hydrogels Incorporating Thermodynamic and Kinetic Hydrate Inhibitors"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/Performance-of-Polymer-Hydrogels-Incorporating-Thermodynamic-and-Kinetic-Hydrate-Inhibitors
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+date: 2016-03-21
+venue: 'Energy Fuels'
+paperurl: 'https://pubs.acs.org/doi/pdf/10.1021/acs.energyfuels.5b02978'
+citation: 'Park J., Lee H., Seo Y., Tian W., Wood C., (2016). &quot;Performance of Polymer Hydrogels Incorporating Thermodynamic and Kinetic Hydrate Inhibitors.&quot; <i>Energy Fuels</i>. 30 (4), 2741-2750.'
 ---
-This paper is about the number 1. The number 2 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+**Abstract**
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+This study investigates the hydrate formation characteristics of hydrogel particles containing thermodynamic or kinetic hydrate inhibitors. Hydrate onset time, hydrate fraction in the liquid phase, and torque changes were determined from the experiments using a high pressure autoclave. To simulate the mixture of water and liquid hydrocarbon encountered in subsea pipelines, decane was added corresponding to an initial 60% water-cut. In the liquid phase a high hydrate fraction was observed in the pure water + decane mixture with a local maximum in torque. For the hydrogel decane mixture, a lower hydrate fraction was observed, and the torque remained stable during the hydrate formation. The addition of 0.5 wt % of a commercial kinetic hydrate inhibitor (Luvicap) to the aqueous phase (with no hydrogel) delayed the hydrate onset time, but several spikes in the torque were observed during the hydrate formation, which suggests that segregation and deposition of hydrate particles is occurring in the liquid phase. When Luvicap (0.5 wt %) was incorporated into the hydrogel particles at the same concentration, there was an increase in the hydrate onset time, and the torque remained stable during the hydrate formation. This study is the first attempt to achieve both kinetic hydrate inhibition and anti-agglomeration using polymer hydrogels. Moreover, the synthesized hydrogel is compatible with monoethylene glycol (MEG) solution, and the resulting MEG-hydrogel particles showed the hydrate formation characteristics of an under-inhibited system. These results suggest that the hydrogel particles can be utilized as a hybrid hydrate inhibitor because thermodynamic and kinetic hydrate inhibition performance can be coupled with the anti-agglomeration performance of the base hydrogel particles.
+
+[Download paper here](https://pubs.acs.org/doi/pdf/10.1021/acs.energyfuels.5b02978)
+
+Recommended citation: Park J., Lee H., Seo Y., Tian W., Wood C., (2016). &quot;Performance of Polymer Hydrogels Incorporating Thermodynamic and Kinetic Hydrate Inhibitors.&quot; <i>Energy Fuels</i>. 30 (4), 2741-2750.
