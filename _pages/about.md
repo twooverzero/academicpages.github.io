@@ -29,7 +29,7 @@ Multiphase Flow in Subsea Flowlines Flow Assurance
 
 Hydrate Risk Management with Innovative Solutions
 ------
-![hydrates](/images/hydrates.PNG)
+![hydrate](/images/hydrate.PNG)
 
 - Under-inhibition with MEG
 - incorproating MEG and KHI into hydrogel particles
