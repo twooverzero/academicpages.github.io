@@ -2,7 +2,7 @@
 title: "Juwoon Park"
 collection: peoples
 type: "peoples"
-permalink: /peoples/juwoon-park
+permalink: /peoples/juwoon_park
 
 ---
 
