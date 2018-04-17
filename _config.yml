@@ -203,10 +203,10 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _teaching
+  # _peoples
   - scope:
       path: ""
-      type: teaching
+      type: peoples
     values:
       layout: single
       author_profile: true
