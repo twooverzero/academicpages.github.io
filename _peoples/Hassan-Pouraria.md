@@ -1,7 +1,7 @@
 ---
 title: "Hassan Pouraria"
 collection: peoples
-type: "Postdoctoral Researcher"
+type: "peoples"
 permalink: /peoples/Hassan Pouraria
 venue: "University 1, Department"
 date: 2014-01-01
