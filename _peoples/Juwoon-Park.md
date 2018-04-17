@@ -1,7 +1,7 @@
 ---
 title: "Juwoon Park"
 collection: peoples
-type: "Postdoctoral Researcher"
+type: "peoples"
 permalink: /peoples/Juwoon-Park
 venue: "University 1, Department"
 date: 2014-01-01
@@ -9,6 +9,8 @@ location: "City, Country"
 ---
 
 This is Juwoon Park.
+
+Postdoctoral Researcher
 
 **Research Interest**
 - Hydrate Inhibition
