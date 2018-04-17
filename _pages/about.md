@@ -20,20 +20,26 @@ Research Interest
 - MEG regeneration process
 - Integration of subse production system with topside process
 
+
 **Multiphase Flow in Subsea Flowlines Flow Assurance**
+
 - Simulation of multiphase flow in subsea flowlines transporting gas, oil and water
 - Flow regime change in subsea flowline and its effect on flow stability
 - Slugging analysis for gas lift system in FPSO
 - Surge analysis for designing a slug catcher on platform topside
 
+
 **Hydrate Risk Management with Innovative Solutions**
+
 ![hydrate](/images/hydrate.PNG)
 
 - Under-inhibition with MEG
 - incorproating MEG and KHI into hydrogel particles
 - Development microcapsule carrying hydrate inhibitors
 
+
 **Integration of Subsea Production System with Topside Process**
+
 ![integrated](/images/integrated.PNG)
 - Transient simulation of subsea flowline with dynamic simulation of separator train
 - Investigation of max surge and flare requirement with dynamic simulation
