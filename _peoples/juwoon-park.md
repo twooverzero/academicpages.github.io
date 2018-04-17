@@ -2,10 +2,8 @@
 title: "Juwoon Park"
 collection: peoples
 type: "peoples"
-permalink: /peoples/Juwoon-Park
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+permalink: /peoples/juwoon-park
+
 ---
 
 This is Juwoon Park.
