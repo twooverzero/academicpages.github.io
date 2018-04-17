@@ -169,7 +169,7 @@ kramdown:
 
 # Collections
 collections:
-  teaching:
+  peoples:
     output: true
     permalink: /:collection/:path/
   publications:
@@ -178,7 +178,7 @@ collections:
   portfolio:
     output: true
     permalink: /:collection/:path/
-  talks:
+  research:
     output: true
     permalink: /:collection/:path/
 
@@ -230,12 +230,12 @@ defaults:
       author_profile: true
       share: true
       comment: true
-  # _talks
+  # _research
   - scope:
       path: ""
-      type: talks
+      type: research
     values:
-      layout: talk
+      layout: single
       author_profile: true
       share: true
 
@@ -249,7 +249,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Asia/Seoul # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
