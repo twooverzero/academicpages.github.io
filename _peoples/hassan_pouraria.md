@@ -2,7 +2,7 @@
 title: "Hassan Pouraria"
 collection: peoples
 type: "peoples"
-permalink: /peoples/Hassan Pouraria
+permalink: /peoples/hassan_pouraria
 tag : "postdoctorate researcher"
 ---
 
