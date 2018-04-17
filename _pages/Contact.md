@@ -19,4 +19,6 @@ Department of Naval Architecture and Ocean Engineering,
 College of Engineering, Seoul National University,
 1 Gwanak-ro, Gwanak-gu, Seoul, 08826, Republic of Korea
 
-**Tel:** +82-2-880-1376
+Tel 
+------
++82-2-880-1376
