@@ -13,30 +13,27 @@ We are researching about various topics related to multiphase flow and related f
 Current research projects are focusing on two phase flow charactreristics in flowloop and hydrate risk management with under-inhibition of MEG.
 
 Research Interest
-======
+------
 - Multiphase flow in subsea flowlines flow assurance
 - Hydrate risk management
 - Improved oil recovery
 - MEG regeneration process
 - Integration of subse production system with topside process
 
-Multiphase Flow in Subsea Flowlines Flow Assurance
-------
+**Multiphase Flow in Subsea Flowlines Flow Assurance**
 - Simulation of multiphase flow in subsea flowlines transporting gas, oil and water
 - Flow regime change in subsea flowline and its effect on flow stability
 - Slugging analysis for gas lift system in FPSO
 - Surge analysis for designing a slug catcher on platform topside
 
-Hydrate Risk Management with Innovative Solutions
-------
+**Hydrate Risk Management with Innovative Solutions**
 ![hydrate](/images/hydrate.PNG)
 
 - Under-inhibition with MEG
 - incorproating MEG and KHI into hydrogel particles
 - Development microcapsule carrying hydrate inhibitors
 
-Integration of Subsea Production System with Topside Process
-------
+**Integration of Subsea Production System with Topside Process**
 ![integrated](/images/integrated.PNG)
 - Transient simulation of subsea flowline with dynamic simulation of separator train
 - Investigation of max surge and flare requirement with dynamic simulation
@@ -44,7 +41,7 @@ Integration of Subsea Production System with Topside Process
 
 
 Selected Publications
-======
+------
 1. Park J., Lee H., Seo Y., Tian W., Wood C., (2016) Performance of Polymer Hydrogels Incorporating Thermodynamic and Kinetic Hydrate Inhibitors, Energy & Fuels, 30 (4), 2741-2750. [Link](https://pubs.acs.org/doi/abs/10.1021/acs.energyfuels.5b02978)
 1. Park J., Shin K., Lee JW, Seo Y., Lee, H. (2015)  In situ Raman and C-13 NMR spectroscopic analysis of gas hydrates formed in confined water: application to natural gas capture, Canadian Journal of Chemistry, 93 (9), 1035-1042 [Link](http://www.nrcresearchpress.com/doi/abs/10.1139/cjc-2014-0536#.WtQJsIhuZaR)
 1. Park J., Shin K., Kim, J., Lee, H., Seo, Y., Maeda, N., Tian, W., Wood, C. D. (2015) Effect of Hydrate Shell Formation on the Stability of Dry Water, Journal of Physical Chemistry C, 119 (4): 1690-1699. [Link](https://pubs.acs.org/doi/full/10.1021/jp510603q)
@@ -60,6 +57,3 @@ Research Partners
 - The Commonwealth Scientific and Industrial Research Organisation(CSIRO)
 - National University of Singapore(NUS)
 
-For more info
-------
-More information, mail((prof.)Yutaek.Seo@snu.ac.kr / (Web)yna0722@snu.ac.kr) or call(+82-2-880-1376). 
