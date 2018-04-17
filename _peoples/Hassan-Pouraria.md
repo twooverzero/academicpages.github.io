@@ -3,9 +3,7 @@ title: "Hassan Pouraria"
 collection: peoples
 type: "peoples"
 permalink: /peoples/Hassan Pouraria
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+tag : "postdoctorate researcher"
 ---
 
 This is Hassan Pouraria.
