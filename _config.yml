@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en-US"
+locale                   : "ko-KR"
 title                    : "SEFA"
 title_separator          : "|"
 name                     : &name "SEFA"
@@ -83,7 +83,7 @@ author:
   bio              : "Dept. of Naval Architecture and Ocean Engineering, College of Engineering, Seoul National University, Korea"
   location         : "Room #203, Bld #36"
   employer         :
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : 
   email            :
   uri              :
   bitbucket        :
